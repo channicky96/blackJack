@@ -1,0 +1,11 @@
+
+
+AdvancedPlayer balance: 0
+
+Total profit/loss: -200
+Total deck used: 49
+Average profit/loss per deck: -4.082
+
+
+------------------------------
+
